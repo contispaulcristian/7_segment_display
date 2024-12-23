@@ -4,3 +4,7 @@
 
 main.c
 
+segments.c
+
+timer.c
+
