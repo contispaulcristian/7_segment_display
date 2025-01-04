@@ -16,7 +16,7 @@ Hardware Design:
 *   Can be built on a breadboard, perfboard, or custom PCB.
 </br>
 <p align="center">
-  <img width="666" height="645" src="photo">
+  <img width="800" height="441" src="https://github.com/user-attachments/assets/07b6a17c-c932-4add-a727-7f12a3f8a2e2">
 </p>
 </br>
 
