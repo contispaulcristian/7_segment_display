@@ -2,7 +2,7 @@
 ### This project features a custom [ATmega328P microcontroller](https://www.microchip.com/en-us/product/atmega328p) board programmed in C. It drives a 4-digit 7-segment display to implement a simple counter application.
 ####
 <p align="center">
-  <img width="600" height="337" src="add photo">
+  <img width="600" height="337" src="https://github.com/user-attachments/assets/d8f06661-8724-4b32-97a7-155ee086d8b1">
 </p>
 </br>
 Features:
@@ -17,6 +17,13 @@ Hardware Design:
 </br>
 <p align="center">
   <img width="800" height="441" src="https://github.com/user-attachments/assets/07b6a17c-c932-4add-a727-7f12a3f8a2e2">
+</p>
+</br>
+
+*   Display pinout
+</br>
+<p align="center">
+  <img width="800" height="441" src="https://github.com/user-attachments/assets/e5528dcd-e902-4f19-a319-5d17f00297f6">
 </p>
 </br>
 
